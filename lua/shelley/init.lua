@@ -4,7 +4,7 @@
 -- Importing the module
 -- with the helper function
 -- and creating a namespace.
-local helpers = require("shelley/helper")
+local helpers = require("shelley/helpers")
 
 -- Defining a local
 -- module.
