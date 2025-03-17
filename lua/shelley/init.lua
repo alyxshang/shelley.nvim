@@ -12,7 +12,7 @@ local M = {}
 
 -- Defining the "setup" function for
 -- the module.
-local M.setup = function()
+M.setup = function()
     vim.api.nvim_create_user_command(
         'Shelley',
 	helpers.printer,
