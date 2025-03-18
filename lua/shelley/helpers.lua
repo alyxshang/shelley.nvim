@@ -12,13 +12,13 @@ local helpers = {}
 -- output.
 function runner(command)
     local cmd = string.gsub(command.args, '"', '')
-		if cmd == '' then
-			local output = "Command argument cannot be empty."
-			return output
-		else
+    if cmd == '' then
+        local output = "Command argument cannot be empty."
+	return output
+    else
     	local output = vim.fn.system(cmd)
     	return output
-		end
+    end
 end
 
 -- Defining the function to
