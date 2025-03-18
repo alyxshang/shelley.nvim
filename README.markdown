@@ -46,5 +46,5 @@ quotes.
 
 ## NOTE :scroll:
 
-- *Shelly.nvim :shell: :black_nib: :woman_technologist:* by *Alyx Shang :black_heart:*.
+- *Shelly.nvim :shell: :black_nib:* by *Alyx Shang :black_heart:*.
 - Licensed under the [FSL v1](https://github.com/alyxshang/fair-software-license).
