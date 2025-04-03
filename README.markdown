@@ -17,10 +17,10 @@ Shelley with `LazyVim`, you would add the following spec code to your
 
 ```Lua
 return {
-    'alyxshang/shelley.nvim',
-    config = function()
-        require("shelley").setup()
-    end
+  'alyxshang/shelley.nvim',
+  config = function()
+    require("shelley").setup()
+  end
 }
 ```
 
